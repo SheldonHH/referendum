@@ -16,7 +16,7 @@ alias bosc= "eosc -u https://xxxxxxxxxxxx"
 
 ## Part 1. Proposer And User 
 
-![img](https://uploader.shimo.im/f/K0qO5RiIfVoFNxbU.png!thumbnail)       
+![img](https://uploader.shimo.im/f/K0qO5RiIfVoFNxbU.png)       
 
 Detail: https://github.com/EOS-Nation/eosio.forum/blob/master/README.md
 
@@ -55,7 +55,7 @@ $ bosc tx create auditor.bos voteauditor '{"voter":"<VOTER>","newvotes":["<CANDI
 
 Detial:https://github.com/EOS-Nation/escrow.bos/blob/master/README.md
 
-![img](https://uploader.shimo.im/f/030svcQ4BmEB84nz.png!thumbnail)       
+![img](https://uploader.shimo.im/f/030svcQ4BmEB84nz.png)       
 
 
 
